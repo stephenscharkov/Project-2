@@ -11,6 +11,7 @@
 
 # Results:
 
-  In the following garphs the following assumptions were made: \n
+  In the following garphs the following assumptions were made: 
+  
     Rainy Days: >0.1mm/hr
     Windy Days: >2.5mm/hr 
